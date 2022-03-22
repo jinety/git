@@ -1,3 +1,4 @@
 Hoa Nguyen learn GIT
 
-hello 
+hello
+tôi đã chỉnh sửa phần này
